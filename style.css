@@ -322,6 +322,7 @@ p:hover {
     height: 300px;
     border: 10px solid #FFD4B2;
 }
+
 @media (max-width: 767px) {
     .carousel-inner .carousel-item > div {
         display: none;
@@ -380,6 +381,11 @@ p:hover {
 }
   
 
+.copyright{
+    color:rgb(70, 119, 121);
+    font-size: 0.75rem;
+    text-align: center;
+}
 
   @media (max-width: 992px){
     .wemen{
